@@ -6,6 +6,8 @@ Hi
 
 - 🔭 I’m currently working as a Business Intelligence Data Lead at GMMH. 
 - 🌱 Also studying MSc. Data Science at University of Salford.
+- 🤓 Experienced with a demonstrated history of working almost 10 years in various levels of analytical roles within the NHS & Higher Educational sector.
+- ⚡ SCRUM Master.
 - 🏫 Want to delve deeper into the Data science world.
 - 👯 I’m looking to collaborate on Machine learning, Statistics related Projects. 
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/sherin-m-9749b345/).
@@ -36,7 +38,7 @@ I am currently working on various projects in the following areas of research (b
 ![Azure](https://img.shields.io/badge/-AZURE-4381FE?style=flat&logo=MicrosoftAzure&logoColor=white) 
 ![JUPYTER](https://img.shields.io/badge/-JUPYTER-FF1B04?style=flat&logo=JUPYTER&logoColor=white) 
 ![SCIKIT-LEARN](https://img.shields.io/badge/-SCIKIT_LEARN-FF9300?style=flat&logo=SCIKITLEARN&logoColor=white) 
-
+![SSRS](https://img.shields.io/badge/-SSRS-FF9300?style=flat&logo=SSRS&logoColor=white) 
 
 <!---
 Shery-1402/Shery-1402 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
